@@ -1,7 +1,7 @@
 ## Hi there! :smile:   
 **Welcome to my GitHub!**
 
-I am Lawrence, a 1st-year student at the Univeristy of California, Irvine pursuing a degree in Computer Science. Currently, I have an interest in artificial intelligence so I hope to explore that path more in the future. Feel free to check out my page!
+I am Lawrence, a 1st-year student at the University of California, Irvine pursuing a degree in Computer Science. Currently, I have an interest in artificial intelligence so I hope to explore that path more in the future. Feel free to check out my page!
 
 
 ## Find me here!  
