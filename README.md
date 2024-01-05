@@ -1,11 +1,11 @@
 ## Hi there! :smile:   
 **Welcome to my GitHub!**
 
-I am Lawrence, a 1st-year student at the University of California, Irvine pursuing a degree in Computer Science. Currently, I have an interest in artificial intelligence so I hope to explore that path more in the future. Feel free to check out my page!
+I am Lawrence, a 3rd-year student at the University of California, Irvine pursuing a degree in Computer Science. Currently, I have an interest in artificial intelligence so I hope to explore that path more in the future. Feel free to check out my page!
 
 
 ## Find me here!  
-[LinkedIn](https://www.linkedin.com/in/lawrence-lu-886845213/)
+[LinkedIn](linkedin.com/in/lawrenceblu)
 
 <!--
 **LawrenceDavidLu/LawrenceDavidLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
