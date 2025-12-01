@@ -1,7 +1,7 @@
 ## Hi there! :smile:   
 **Welcome to my GitHub!**
 
-I am Lawrence, a 3rd-year student at the University of California, Irvine pursuing a degree in Computer Science. Currently, I have an interest in artificial intelligence so I hope to explore that path more in the future. Feel free to check out my page!
+I am Lawrence, a graduate from the University of California, Irvine with a degree in Computer Science and a minor in Statistics. Currently, I have an interest in deep learning so I have been exploring more related to neural networks and deep reinforcement learning. Feel free to check out my page!
 
 
 ## Find me here!  
