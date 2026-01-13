@@ -6,7 +6,7 @@ I am Lawrence, a graduate from the University of California, Irvine with a degre
 
 ## Find me here!  
 [LinkedIn](linkedin.com/in/lawrenceblu)
-[Portfolio[(lawrenceblu.github.io/)
+[Portfolio](lawrenceblu.github.io/)
 
 <!--
 **LawrenceDavidLu/LawrenceDavidLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
